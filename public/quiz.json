@@ -1,0 +1,158 @@
+{
+    "RickAndMorty": [
+        {
+            "pergunta": "Qual é o nome do cientista louco protagonista da série?",
+            "opcoes_respostas": [
+                "Rick Sanchez",
+                "Jerry Smith",
+                "Morty Smith",
+                "Birdperson"
+            ],
+            "resposta_correta": "Rick Sanchez"
+        },
+        {
+            "pergunta": "Qual é o nome do neto de Rick?",
+            "opcoes_respostas": [
+                "Morty Smith",
+                "Summer Smith",
+                "Beth Smith",
+                "Jessica"
+            ],
+            "resposta_correta": "Morty Smith"
+        },
+        {
+            "pergunta": "O que é o Portal Gun de Rick?",
+            "opcoes_respostas": [
+                "Uma arma de laser",
+                "Um controle remoto",
+                "Uma máquina do tempo",
+                "Um dispositivo que cria portais interdimensionais"
+            ],
+            "resposta_correta": "Um dispositivo que cria portais interdimensionais"
+        },
+        {
+            "pergunta": "Qual é o nome da dimensão alternativa que Rick e Morty frequentemente visitam?",
+            "opcoes_respostas": [
+                "Dimension C-137",
+                "Dimension Z-54",
+                "Dimension A-42",
+                "Dimension B-78"
+            ],
+            "resposta_correta": "Dimension C-137"
+        },
+        {
+            "pergunta": "Quem é o melhor amigo de Morty?",
+            "opcoes_respostas": [
+                "Jerry Smith",
+                "Birdperson",
+                "Noob-Noob",
+                "Squanchy"
+            ],
+            "resposta_correta": "Birdperson"
+        }
+    ],
+    "StarWars": [
+        {
+            "pergunta": "Qual é o nome do protagonista da trilogia original de Star Wars?",
+            "opcoes_respostas": [
+                "Luke Skywalker",
+                "Han Solo",
+                "Darth Vader",
+                "Obi-Wan Kenobi"
+            ],
+            "resposta_correta": "Luke Skywalker"
+        },
+        {
+            "pergunta": "Qual é o nome da nave espacial icônica pilotada por Han Solo e Chewbacca?",
+            "opcoes_respostas": [
+                "X-Wing",
+                "TIE Fighter",
+                "Star Destroyer",
+                "Millennium Falcon"
+            ],
+            "resposta_correta": "Millennium Falcon"
+        },
+        {
+            "pergunta": "Quem é o mestre Jedi que treinou Luke Skywalker nas artes da Força?",
+            "opcoes_respostas": [
+                "Darth Sidious",
+                "Mace Windu",
+                "Yoda",
+                "Qui-Gon Jinn"
+            ],
+            "resposta_correta": "Yoda"
+        },
+        {
+            "pergunta": "Qual é o nome do planeta natal de Darth Vader?",
+            "opcoes_respostas": [
+                "Alderaan",
+                "Endor",
+                "Dagobah",
+                "Tatooine"
+            ],
+            "resposta_correta": "Tatooine"
+        },
+        {
+            "pergunta": "Qual é o nome do droide companheiro de Luke Skywalker?",
+            "opcoes_respostas": [
+                "R2-D2",
+                "C-3PO",
+                "BB-8",
+                "IG-88"
+            ],
+            "resposta_correta": "R2-D2"
+        }
+    ],
+    "Marvel": [
+        {
+            "pergunta": "Qual é o nome do herói conhecido por usar um escudo em forma de estrela?",
+            "opcoes_respostas": [
+                "Homem de Ferro",
+                "Homem-Aranha",
+                "Capitão América",
+                "Thor"
+            ],
+            "resposta_correta": "Capitão América"
+        },
+        {
+            "pergunta": "Quem é o arqui-inimigo do Homem-Aranha?",
+            "opcoes_respostas": [
+                "Doutor Octopus",
+                "Duende Verde",
+                "Venom",
+                "Thanos"
+            ],
+            "resposta_correta": "Duende Verde"
+        },
+        {
+            "pergunta": "Qual é o nome da cientista brilhante que se tornou a super-heroína conhecida como Miss Marvel?",
+            "opcoes_respostas": [
+                "Natasha Romanoff",
+                "Carol Danvers",
+                "Wanda Maximoff",
+                "Jessica Jones"
+            ],
+            "resposta_correta": "Carol Danvers"
+        },
+        {
+            "pergunta": "Quem é o irmão adotivo de Thor, que se tornou um vilão em algumas histórias?",
+            "opcoes_respostas": [
+                "Loki",
+                "Hulk",
+                "Hawkeye",
+                "Falcão"
+            ],
+            "resposta_correta": "Loki"
+        },
+        {
+            "pergunta": "Qual é o nome do metal ultra-resistente que compõe o escudo do Capitão América?",
+            "opcoes_respostas": [
+                "Adamantium",
+                "Vibranium",
+                "Unobtainium",
+                "Kryptonite"
+            ],
+            "resposta_correta": "Vibranium"
+        }
+    ]
+}
